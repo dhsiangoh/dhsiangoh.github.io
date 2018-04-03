@@ -7,8 +7,9 @@
     <p>I got 254(+3) for PSLE and I achieved the Best in Mathematics Award in Primary 6. I have also achieved top 10 in level for primary 1,3,4,5 and 6.</p>
 <h2>What i like to do</h2>
 <p>I like to do many things, such as:</p>
-<ul><li>Playing Clash Royale</li>
-<li>Doing Maths problems and Science experiments<li>
+<ul>
+<li>Playing Clash Royale</li>
+<li>Doing Maths problems and Science experiments</li>
 <li>Eating</li>
 </ul>
 </body>
