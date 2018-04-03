@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>My Personal Portfolio Website</head>
   <body>
     <h1>My Personal Portfolio Website</h1>
     <p>My name is Ian Goh and I am from 1A. My CCA is Robotics Club</p>
